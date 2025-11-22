@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+gnews
+requests
+beautifulsoup4
+openai
+yfinance
+cachetools
+python-dotenv
